@@ -1,0 +1,28 @@
+.h1Class{
+    background-color: crimson;
+    text-align: center;
+}
+.h2Class{
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+a{
+    color: crimson;
+}
+a:hover{
+    color: darkcyan;
+}
+
+.favs{
+    text-align: center;
+}
+.ul{
+    text-align: center;
+    margin-left: 500px;
+    padding-right: 500px;
+}
